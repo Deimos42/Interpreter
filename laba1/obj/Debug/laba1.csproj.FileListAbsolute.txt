@@ -1,6 +1,0 @@
-C:\Users\Admin\Desktop\мат.обеспечение(компилятор)\laba1\bin\Debug\laba1(studio2008).exe
-C:\Users\Admin\Desktop\мат.обеспечение(компилятор)\laba1\bin\Debug\laba1(studio2008).pdb
-C:\Users\Admin\Desktop\мат.обеспечение(компилятор)\laba1\obj\Debug\laba1.csprojAssemblyReference.cache
-C:\Users\Admin\Desktop\мат.обеспечение(компилятор)\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\мат.обеспечение(компилятор)\laba1\obj\Debug\laba1(studio2008).exe
-C:\Users\Admin\Desktop\мат.обеспечение(компилятор)\laba1\obj\Debug\laba1(studio2008).pdb
