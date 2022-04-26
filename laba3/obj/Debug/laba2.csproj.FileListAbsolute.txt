@@ -1,0 +1,27 @@
+N:\ЛАБЫ\5 семестр(2)\математическое обеспечение\laba2(studio 2008)\laba2\bin\Debug\laba2.exe
+N:\ЛАБЫ\5 семестр(2)\математическое обеспечение\laba2(studio 2008)\laba2\bin\Debug\laba2.pdb
+N:\ЛАБЫ\5 семестр(2)\математическое обеспечение\laba2(studio 2008)\laba2\obj\Debug\laba2.Properties.Resources.resources
+N:\ЛАБЫ\5 семестр(2)\математическое обеспечение\laba2(studio 2008)\laba2\obj\Debug\laba2.csproj.GenerateResource.cache
+N:\ЛАБЫ\5 семестр(2)\математическое обеспечение\laba2(studio 2008)\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+N:\ЛАБЫ\5 семестр(2)\математическое обеспечение\laba2(studio 2008)\laba2\obj\Debug\laba2.exe
+N:\ЛАБЫ\5 семестр(2)\математическое обеспечение\laba2(studio 2008)\laba2\obj\Debug\laba2.pdb
+N:\ЛАБЫ\5 семестр(2)\математическое обеспечение\laba2(studio 2008)\laba2\obj\Debug\laba2.Form1.resources
+N:\ЛАБЫ\5 семестр(2)\математическое обеспечение\laba2(studio 2008)\laba2\obj\Debug\laba2.csprojAssemblyReference.cache
+N:\ЛАБЫ\5 семестр(2)\математическое обеспечение\laba3(studio 2008)\laba2\bin\Debug\laba2.exe
+N:\ЛАБЫ\5 семестр(2)\математическое обеспечение\laba3(studio 2008)\laba2\bin\Debug\laba2.pdb
+N:\ЛАБЫ\5 семестр(2)\математическое обеспечение\laba3(studio 2008)\laba2\obj\Debug\laba2.csprojAssemblyReference.cache
+N:\ЛАБЫ\5 семестр(2)\математическое обеспечение\laba3(studio 2008)\laba2\obj\Debug\laba2.Form1.resources
+N:\ЛАБЫ\5 семестр(2)\математическое обеспечение\laba3(studio 2008)\laba2\obj\Debug\laba2.Properties.Resources.resources
+N:\ЛАБЫ\5 семестр(2)\математическое обеспечение\laba3(studio 2008)\laba2\obj\Debug\laba2.csproj.GenerateResource.cache
+N:\ЛАБЫ\5 семестр(2)\математическое обеспечение\laba3(studio 2008)\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+N:\ЛАБЫ\5 семестр(2)\математическое обеспечение\laba3(studio 2008)\laba2\obj\Debug\laba2.exe
+N:\ЛАБЫ\5 семестр(2)\математическое обеспечение\laba3(studio 2008)\laba2\obj\Debug\laba2.pdb
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр(2)\математическое обеспечение\laba3(studio 2008)\laba2\bin\Debug\laba2.exe
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр(2)\математическое обеспечение\laba3(studio 2008)\laba2\bin\Debug\laba2.pdb
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр(2)\математическое обеспечение\laba3(studio 2008)\laba2\obj\Debug\laba2.csprojAssemblyReference.cache
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр(2)\математическое обеспечение\laba3(studio 2008)\laba2\obj\Debug\laba2.Form1.resources
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр(2)\математическое обеспечение\laba3(studio 2008)\laba2\obj\Debug\laba2.Properties.Resources.resources
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр(2)\математическое обеспечение\laba3(studio 2008)\laba2\obj\Debug\laba2.csproj.GenerateResource.cache
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр(2)\математическое обеспечение\laba3(studio 2008)\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр(2)\математическое обеспечение\laba3(studio 2008)\laba2\obj\Debug\laba2.exe
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр(2)\математическое обеспечение\laba3(studio 2008)\laba2\obj\Debug\laba2.pdb
